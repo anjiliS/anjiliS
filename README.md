@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Business Analyst
 ----------------
 
-I've been a data fan for many years while working in Supply Chain in Trinidad and Tobago I'm now formally studying Business Analytics at the Sobey School of Business, Saint Mary's University in Halifax, Nova Scotia, Canada
+I've been a data fan for many years while working in Supply Chain in Trinidad and Tobago. I'm now formally studying Business Analytics at the Sobey School of Business, Saint Mary's University in Halifax, Nova Scotia, Canada
 
 * 🌍  I'm based in Halifax, NS
 * ✉️  You can contact me at [anjili\_s@hotmail.com](mailto:anjili_s@hotmail.com)
